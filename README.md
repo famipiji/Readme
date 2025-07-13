@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Fahmi Rosmidi!
 
 🎓 I'm an Engineering student passionate about technology, innovation, and problem-solving.  
 💻 I love coding and exploring how software can be used to build real-world solutions.  
@@ -23,14 +23,14 @@
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Fahmi Rosmidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
 
-- 💌 Email: [your-email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💌 Email: [fahmihafizi40@gmail.com]  
+- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-fahmi-hafizi-rosmidi-0534072bb/))
 
 ---
 
