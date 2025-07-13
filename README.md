@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Field of Study**: [Your Engineering Discipline, e.g., Computer / Electrical / Mechatronics Engineering]  
+- 🎓 **Field of Study**: Computer Engineering  
 - 🌐 **Interests**: Software Development, Smart Systems, IoT, Automation  
 - 💡 **Current Focus**: Building meaningful projects that combine both hardware and software  
 - 🛠️ **Languages & Tools**:  
@@ -30,7 +30,7 @@
 ## 📫 Let's Connect
 
 - 💌 Email: [fahmihafizi40@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-fahmi-hafizi-rosmidi-0534072bb/))
+- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-fahmi-hafizi-rosmidi-0534072bb/)
 
 ---
 
