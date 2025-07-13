@@ -30,7 +30,7 @@
 ## 📫 Let's Connect
 
 - 💌 Email: [fahmihafizi40@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-fahmi-hafizi-rosmidi-0534072bb/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/muhammad-fahmi-hafizi-rosmidi-0534072bb/]
 
 ---
 
