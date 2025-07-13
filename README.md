@@ -24,7 +24,7 @@
 
 ## 📈 GitHub Stats
 
-![Fahmi Rosmidi's GitHub stats]![GitHub Stats](https://github-readme-stats.vercel.app/api?username=famipiji&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=famipiji&show_icons=true&theme=tokyonight)
 
 ---
 
