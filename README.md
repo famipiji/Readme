@@ -22,9 +22,9 @@
 
 ---
 
-## 📈 GitHub Stats
+## Here if you want to review my digital portfolio!
 
-![Fami Piji's GitHub stats](https://github-readme-stats.vercel.app/api?username=famipiji&show_icons=true&theme=tokyonight)
+https://fahmirosmidi.pages.dev/
 
 
 ---
