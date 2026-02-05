@@ -22,9 +22,10 @@
 
 ---
 
-##  GitHub Stats
+## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=famipiji&show_icons=true&theme=tokyonight)
+![Fami Piji's GitHub stats](https://github-readme-stats.vercel.app/api?username=famipiji&show_icons=true&theme=tokyonight)
+
 
 ---
 
